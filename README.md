@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tris-nguyen&label=Profile%20views&color=0e75b6&style=flat" alt="tris-nguyen" /> </p>
 
-- 🔭 I’m currently participating in [Data Analytics Accelerator Bootcamp](https://www.datacareerjumpstart.com/)
+- 🔭 I’m currently working as a Data Analyst 
 
-- 🌱 I’m currently learning **Excel, SQL and Tableau**
+- 🌱 I’m currently learning **Python and Automation**
 
 - 👨‍💻 All of my projects are available at [https://tris-nguyen.github.io/](https://tris-nguyen.github.io/)
 
